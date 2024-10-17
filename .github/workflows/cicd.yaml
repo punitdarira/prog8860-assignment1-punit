@@ -1,7 +1,7 @@
 name: Assignment 1
 on:
   push:
-    branches: [ "feature" ]
+    branches: [ "feature-branch" ]
   pull_request:
     branches: [ "main" ]
 
